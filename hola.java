@@ -1,5 +1,4 @@
 public class resumen{
-//hola2
+//hola
 }
-	
- 
+//hola2
